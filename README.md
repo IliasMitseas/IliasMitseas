@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IliasMitseas
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning to code, mostly in python lunguage
+- 🌱 I’m currently learning to code, mostly web application development with java spring framework
 - 📫 How to reach me ...on facebook or instagram (Ilias Mitseas)
 
 <!---
